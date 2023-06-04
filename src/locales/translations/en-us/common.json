@@ -1,0 +1,21 @@
+{
+  "homePage": {
+    "welcome": "Welcome to Lacrei Saúde",
+    "about": "A safe and welcoming website for the LGBTQIAPN+ community",
+    "user": "User",
+    "professional": "Professional"
+  },
+  "header": {
+    "home": "Home",
+    "user":"User",
+    "professional":"Professional"
+  },
+  "userPage":{
+    "user":"User",
+    "userText": "The Lacrei Saúde assures that LGBTQIAPN+ people receive attendence by qualified professionals that respect their needs in a safe and welcoming way." 
+  },
+  "professionalPage":{
+    "professional":"Professional",
+    "professionalText": "The Lacrei Saúde assures that LGBTQIAPN+ people receive attendence by qualified professionals that respect their needs in a safe and welcoming way."
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "homePage": {
+    "welcome": "Boas vindas a Lacrei Saúde",
+    "about": "Uma plataforma segura e acolhedora para comunidade LGBTQIAPN+",
+    "user": "Pessoa Usuária",
+    "professional": "Profissional"
+  },
+  "header": {
+    "home": "Início",
+    "user":"Pessoa Usuária",
+    "professional":"Profissional"
+  },
+  "userPage":{
+    "user":"Pessoa Usuária",
+    "userText": "A Lacrei garante que pessoas LGBTQIAPN + recebam atendimento realizado por profissionais de qualidade e que atendam às suas necessidades de forma segura e acolhedora."
+  },
+  "professionalPage":{
+    "professional":"Profissional",
+    "professionalText": " A Lacrei garante que pessoas LGBTQIAPN + recebam atendimento realizado por profissionais de qualidade e que atendam às suas necessidades de forma segura e acolhedora."
+  }
+}
